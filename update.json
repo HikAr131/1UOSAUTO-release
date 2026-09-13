@@ -1,6 +1,6 @@
 {
-  "version": "0.0.1",
-  "notes": "",
+  "version": "0.0.2",
+  "notes": "重装后桌面附带 ToDesk 与解压工具，网卡驱动按需在线下载；新增内置 Windows 11 23H2 BT 镜像；下载默认保存到最大的数据盘。",
   "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/latest",
-  "published": "2026-09-10"
+  "published": "2026-09-13"
 }
