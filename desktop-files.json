@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "name": "网卡驱动.exe",
+      "url": "https://github.com/HikAr131/1UOSAUTO-release/releases/download/desktop-files/netdrv-x64.exe",
+      "size": 425087164,
+      "sha256": "3d9573315d78325785c478a8e2725ea5955b64487df2dd09420fc8f71ea7f61e"
+    }
+  ]
+}
