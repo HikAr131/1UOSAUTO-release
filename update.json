@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
-  "notes": "统一界面为简体中文；改进按钮与选择项配色、键盘操作和确认对话框；只打开通过校验的 HTTPS 更新地址。",
-  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/latest",
-  "published": "2026-09-27"
+  "version": "0.0.5",
+  "notes": "PE 更换 HikariOS 壁纸，采用包含网络组件与网卡驱动的 Windows 11 x64 底包；桌面加入 ToDesk、UU、Edge 安装包及 DiskGenius。此作品修改自FirPE：https://firpe.cn/。实际联网、Wi-Fi 及安装器兼容性仍需开机验证。",
+  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.5",
+  "published": "2026-10-08"
 }
