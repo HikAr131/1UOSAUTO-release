@@ -1,6 +1,6 @@
 {
-  "version": "0.0.5",
-  "notes": "PE 更换 HikariOS 壁纸，采用包含网络组件与网卡驱动的 Windows 11 x64 底包；桌面加入 ToDesk、UU、Edge 安装包及 DiskGenius。此作品修改自FirPE：https://firpe.cn/。实际联网、Wi-Fi 及安装器兼容性仍需开机验证。",
-  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.5",
-  "published": "2026-10-08"
+  "version": "0.0.6",
+  "notes": "正常端与 PE 端新增日志上传入口，可审阅处理后的日志并通过 GitHub 授权提交公开反馈。此作品修改自FirPE：https://firpe.cn/。沿用网络 PE 与桌面软件配置，实际联网、Wi-Fi 及安装器兼容性仍需开机验证。",
+  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.6",
+  "published": "2026-10-10"
 }
