@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6",
-  "notes": "正常端与 PE 端新增日志上传入口，可审阅处理后的日志并通过 GitHub 授权提交公开反馈。此作品修改自FirPE：https://firpe.cn/。沿用网络 PE 与桌面软件配置，实际联网、Wi-Fi 及安装器兼容性仍需开机验证。",
-  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.6",
-  "published": "2026-10-10"
+  "version": "0.0.7",
+  "notes": "主程序改为精简包，PE 按需下载并独立发布；新增本机镜像搜索和 PE 能力信息。此作品修改自FirPE：https://firpe.cn/。免费分享，仅限非商业使用；实际 PE 开机、联网和 Wi-Fi 仍需验证。",
+  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.7",
+  "published": "2026-10-13"
 }
