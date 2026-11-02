@@ -1,6 +1,6 @@
 {
-  "version": "0.0.7",
-  "notes": "主程序改为精简包，PE 按需下载并独立发布；新增本机镜像搜索和 PE 能力信息。此作品修改自FirPE：https://firpe.cn/。免费分享，仅限非商业使用；实际 PE 开机、联网和 Wi-Fi 仍需验证。",
-  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/tag/0.0.7",
-  "published": "2026-10-13"
+  "version": "0.2.1",
+  "notes": "一些其他的改进与错误修复\n新增问题描述与电子邮件反馈，可保存包含描述的脱敏日志。\nPE 环境：此作品修改自 FirPE，官网：https://firpe.cn/ 。本软件免费公开分享，仅限非商业使用。",
+  "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/latest",
+  "published": "2026-11-02"
 }
