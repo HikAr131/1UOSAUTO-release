@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "notes": "一些其他的改进与错误修复\n新增问题描述与电子邮件反馈，可保存包含描述的脱敏日志。\nPE 环境：此作品修改自 FirPE，官网：https://firpe.cn/ 。本软件免费公开分享，仅限非商业使用。",
+  "version": "0.2.2",
+  "notes": "一些其他的改进与错误修复\n新增系统调整分组与更多选项；使用内置无人值守部署 Windows 10/11 时，可在首次登录应用所选电源计划。\n经 PE 安装成功后可清理本次暂存镜像，默认关闭并保留原始文件。\nPE 环境：此作品修改自 FirPE，官网：https://firpe.cn/ 。本软件免费公开分享，仅限非商业使用。",
   "download_url": "https://github.com/HikAr131/1UOSAUTO-release/releases/latest",
-  "published": "2026-11-02"
+  "published": "2026-11-04"
 }
